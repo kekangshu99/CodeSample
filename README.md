@@ -1,2 +1,2 @@
 # CodeSample
-This is code samples of Kekang Shu
+This is Kekang shu's code sample repository.
